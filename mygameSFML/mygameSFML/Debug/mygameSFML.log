@@ -1,0 +1,44 @@
+﻿  mygameSFML.cpp
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(26,46): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(26,39): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(37,48): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(37,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(56,74): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(57,74): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(58,73): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(58,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(64,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(64,61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(68,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(68,61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(72,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(72,61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(76,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(76,61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(84,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(84,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(88,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(88,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(92,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(92,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(96,89): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(96,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(103,56): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\mygameSFML\mygameSFML.cpp(103,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  mygameSFML.vcxproj -> C:\Users\ДенисБогданов\OneDrive\Рабочий стол\CPPlesson\mygameSFML\Debug\mygameSFML.exe
